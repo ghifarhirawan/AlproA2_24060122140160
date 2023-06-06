@@ -1,0 +1,2 @@
+charizard 1000
+pikachu 500

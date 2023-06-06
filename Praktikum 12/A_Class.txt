@@ -1,0 +1,2 @@
+Daftar pokemon yang masuk ke A Class
+pikachu 500
